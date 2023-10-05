@@ -1,0 +1,10 @@
+// .devcontainer/devcontainer.json
+{
+    "name": "Google Benchmark Codespace",
+    "dockerFile": "Dockerfile",
+    "extensions": ["ms-vscode.cpptools"],
+    "settings": {
+      "terminal.integrated.shell.linux": "/bin/bash"
+    }
+  }
+  
